@@ -1,1 +1,3 @@
-A basic psuedo programming  language (mix of Python and C) on C using flex and bison frameworks.
+A basic psuedo programming  language (mix of Python and C) on C using flex and bison frameworks. You can execute the with ./COMPILO test.txt.
+The project supports variable assignment and operators priority. The arithmetic operations that are supported are - '+', '-','*','**'. 
+Logical operations - '<', '>', '==' , '>=', '<='.   
