@@ -1,0 +1,11 @@
+AA = 3 + 2;
+if( AA >= 2){
+while(AA > 2){
+	AA  = AA - 1;
+	print AA;
+}
+}
+else{
+	print 42;
+}
+
