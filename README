@@ -1,3 +1,5 @@
-A basic psuedo programming  language (mix of Python and C) on C using flex and bison frameworks. You can compile it using the makefile and then execute it with ./COMPILO test.txt.
-The project supports variable assignment and operators priority. The arithmetic operations that are supported are - '+', '-','*','**'. 
+A basic psuedo programming  language (mix of Python and C) on C using flex and bison frameworks. 
+The project is a basic implementation of the classical syntaxic and lexical tree analysis. 
+You can compile it using the makefile and then execute it with the test file (./COMPILO test.txt).
+The language supports variable assignment, operators priority and loops. The arithmetic operations that are supported are - '+', '-','*','**'. 
 Logical operations - '<', '>', '==' , '>=', '<='.   
